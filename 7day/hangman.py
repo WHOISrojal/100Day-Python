@@ -1,6 +1,6 @@
-# Check whether the letter you entered is in the given word from the list
+# Check whether the letter is in the given word from the list
 import random
-list = ["ram", "hari","sita"]
+list = ["ardvark","baboon","camel"]
 
 chosen_word = random.choice(list)
 print(chosen_word)

@@ -1,0 +1,1 @@
+    if guess in display:
