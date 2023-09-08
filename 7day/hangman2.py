@@ -17,4 +17,4 @@ for position in range(len(chosen_word)):
     if letter == guess:
         display[position] = letter
 print(display)
-
+    
